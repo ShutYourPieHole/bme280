@@ -65,7 +65,7 @@ const (
 // General constants.
 const (
 	// I2CAddr is default BME280 I2C address.
-	I2CAddr int = 0x77
+	I2CAddr int = 0x76
 	// ResetVal is a value which when written to ResetAddr resets the sensor.
 	ResetVal byte = 0xB6
 	// IDVal is a ID value of the sensor.
